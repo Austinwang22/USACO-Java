@@ -33,7 +33,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.photo">
+  <component name="RunManager" selected="Application.bcount">
+    <configuration name="bcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bcount" />
+      <module name="USACO-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hps" />
       <module name="USACO-Java" />
@@ -43,13 +50,6 @@
     </configuration>
     <configuration name="msched" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="msched" />
-      <module name="USACO-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pails" />
       <module name="USACO-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bcount" />
         <item itemvalue="Application.photo" />
         <item itemvalue="Application.msched" />
         <item itemvalue="Application.hps" />
         <item itemvalue="Application.piggyback" />
-        <item itemvalue="Application.pails" />
       </list>
     </recent_temporary>
   </component>
@@ -105,25 +105,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1584242636722">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1584242838133">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242636722" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242838133" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584162325508" />
-    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1584242636718">
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1584242838130">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242636718" />
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242838130" />
     <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584162325507" />
-    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1584242636717">
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1584242838128">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242636717" />
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242838128" />
     <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584162325506" />
-    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1584242636720">
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1584242838132">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242636720" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584242838132" />
     <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584162325507" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584160980315">
       <screen x="0" y="0" width="1440" height="900" />
