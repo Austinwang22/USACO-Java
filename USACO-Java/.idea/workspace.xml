@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31461df9-fed5-41cc-8352-03b83698b2ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mountains.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perimeter.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planting.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mountains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/planting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +32,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.perimeter">
+  <component name="RunManager" selected="Application.convention">
     <configuration name="clocktree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clocktree" />
+      <module name="USACO-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convention" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="convention" />
       <module name="USACO-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,13 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swap" />
-      <module name="USACO-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="triangles" />
       <module name="USACO-Java" />
@@ -76,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.convention" />
         <item itemvalue="Application.perimeter" />
         <item itemvalue="Application.planting" />
         <item itemvalue="Application.clocktree" />
         <item itemvalue="Application.triangles" />
-        <item itemvalue="Application.swap" />
       </list>
     </recent_temporary>
   </component>
@@ -110,21 +104,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1584162325508">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1584241263208">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584241263208" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584162325508" />
-    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1584162325507">
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1584241263206">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584241263206" />
     <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584162325507" />
-    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1584162325506">
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1584241263204">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584241263204" />
     <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584162325506" />
-    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1584162325507">
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1584241263207">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584241263207" />
     <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584162325507" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584160980315">
       <screen x="0" y="0" width="1440" height="900" />
