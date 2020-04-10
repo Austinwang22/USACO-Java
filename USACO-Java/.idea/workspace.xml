@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31461df9-fed5-41cc-8352-03b83698b2ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/haircut.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revegetate.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haircut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revegetate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountains.in" beforeDir="false" afterPath="$PROJECT_DIR$/mountains.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mountains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mountains.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +37,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.mountains">
-    <configuration name="bcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bcount" />
-      <module name="USACO-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hps" />
+  <component name="RunManager" selected="Application.socdist">
+    <configuration name="haircut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="haircut" />
       <module name="USACO-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,15 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="msched" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="msched" />
+    <configuration name="perimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perimeter" />
       <module name="USACO-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="photo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="photo" />
+    <configuration name="revegetate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revegetate" />
+      <module name="USACO-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="socdist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socdist" />
       <module name="USACO-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.socdist" />
+        <item itemvalue="Application.haircut" />
+        <item itemvalue="Application.perimeter" />
+        <item itemvalue="Application.revegetate" />
         <item itemvalue="Application.mountains" />
-        <item itemvalue="Application.bcount" />
-        <item itemvalue="Application.photo" />
-        <item itemvalue="Application.msched" />
-        <item itemvalue="Application.hps" />
       </list>
     </recent_temporary>
   </component>
@@ -109,29 +113,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584421274935" />
-    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1584423888555">
+    <state width="699" height="237" key="GridCell.Tab.0.bottom" timestamp="1585683115660">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584423888555" />
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584243676295" />
-    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1584423888553">
+    <state width="699" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585683115660" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584424976948" />
+    <state width="699" height="237" key="GridCell.Tab.0.center" timestamp="1585683115659">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584423888553" />
-    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584243676294" />
-    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1584423888552">
+    <state width="699" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585683115659" />
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584424976947" />
+    <state width="699" height="237" key="GridCell.Tab.0.left" timestamp="1585683115658">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584423888552" />
-    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584243676293" />
-    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1584423888554">
+    <state width="699" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585683115658" />
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584424976946" />
+    <state width="699" height="237" key="GridCell.Tab.0.right" timestamp="1585683115660">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584423888554" />
-    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584243676294" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1584160980315">
+    <state width="699" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585683115660" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584424976948" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585684578351">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585684578351" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584160980315" />
+    <state x="97" y="72" key="new project wizard" timestamp="1585684606827">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585684606827" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584595400498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1584595400498" />
   </component>
 </project>
