@@ -22,7 +22,7 @@ public class mountains {
             mountains[i] = new Mountain(x,y);
         }
         Arrays.sort(mountains);
-        int count = N;    
+        int count = N;
         for (int i = 0; i < N; i++)
         {
             Mountain check = mountains[i];
